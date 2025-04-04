@@ -1,0 +1,3 @@
+from classes.contabancaria import ContaBancaria
+from classes.contapoupanca import ContaPoupanca
+from classes.contacorrente import ContaCorrente
